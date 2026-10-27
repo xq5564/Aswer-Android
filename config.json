@@ -1,0 +1,11 @@
+{
+    "base_url": "https://api.openai.com",
+    "api_key": "sk-在此填入你的APIKEY",
+    "model": "gpt-4o-mini",
+    "prompt": "请描述并解答这张屏幕截图中的内容，回答尽量简洁。",
+    "corner": 1,
+    "opacity": 0.35,
+    "font_size": 42,
+    "font_path": "/data/local/tmp/aswer/font.ttf",
+    "timeout_ms": 60000
+}
